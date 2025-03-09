@@ -1,10 +1,10 @@
 {
-	"name": "wordpress/five-for-the-future",
+	"name": "CodexClub567/five-for-the-future",
 	"description": "",
 	"homepage": "https://wordpress.org/five-for-the-future",
 	"license": "GPL-2.0-or-later",
 	"support": {
-		"issues": "https://github.com/WordPress/five-for-the-future/issues"
+		"issues": "https://github.com/CodexClub567/five-for-the-future/issues"
 	},
 	"config": {
 		"platform": {
